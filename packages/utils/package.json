@@ -1,6 +1,7 @@
 {
   "name": "@autorelease/test-package-utils",
   "version": "1.0.1",
+  "description": ".",
   "author": "Andrew Lisowski <lisowski54@gmail.com>",
   "repository": "hipstersmoothie/auto-test-independent",
   "main": "index.js",
