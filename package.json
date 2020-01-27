@@ -1,0 +1,24 @@
+{
+  "name": "auto-test-independent",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Andrew Lisowski <lisowski54@gmail.com>",
+  "license": "MIT",
+  "repository": "hipstersmoothie/auto-test-independent",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "release": "auto shipit"
+  },
+  "devDependencies": {
+    "auto": "^9.5.0",
+    "lerna": "^3.20.2"
+  },
+  "auto": {
+    "plugins": [
+      "npm"
+    ]
+  }
+}

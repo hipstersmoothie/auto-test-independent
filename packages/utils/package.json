@@ -1,0 +1,11 @@
+{
+  "name": "@autorelease/test-package-utils",
+  "version": "1.0.0",
+  "author": "Andrew Lisowski <lisowski54@gmail.com>",
+  "repository": "hipstersmoothie/auto-test-independent",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
