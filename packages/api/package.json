@@ -2,6 +2,7 @@
   "name": "@autorelease/test-package-api",
   "version": "0.1.1",
   "author": "Andrew Lisowski <lisowski54@gmail.com>",
+  "description": "...",
   "repository": "hipstersmoothie/auto-test-independent",
   "main": "index.js",
   "license": "MIT",
