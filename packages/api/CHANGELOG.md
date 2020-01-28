@@ -1,3 +1,15 @@
+# v0.1.7 (Mon Jan 27 2020)
+
+#### 🐛  Bug Fix
+
+- commit in api  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v0.1.6 (Mon Jan 27 2020)
 
 #### 🐛  Bug Fix

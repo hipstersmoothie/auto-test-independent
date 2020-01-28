@@ -2,6 +2,22 @@
 
 #### ⚠️  Pushed to master
 
+- commit at root  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- `@autorelease/test-package-api@0.1.7`
+  - commit in api  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- `@autorelease/test-package-utils@1.0.6`
+  - commit in utils  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
+# (Mon Jan 27 2020)
+
+#### ⚠️  Pushed to master
+
 - `@autorelease/test-package-utils@1.0.5`
   - update 2  ([@hipstersmoothie](https://github.com/hipstersmoothie))
 - `@autorelease/test-package-api@0.1.6`

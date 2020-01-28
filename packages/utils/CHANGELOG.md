@@ -1,3 +1,15 @@
+# v1.0.6 (Mon Jan 27 2020)
+
+#### 🐛  Bug Fix
+
+- commit in utils  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v1.0.5 (Mon Jan 27 2020)
 
 #### 🐛  Bug Fix
