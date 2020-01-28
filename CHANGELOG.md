@@ -1,5 +1,18 @@
 # (Tue Jan 28 2020)
 
+#### ⚠️  Pushed to master
+
+- `@autorelease/test-package-api@0.1.8`, `@autorelease/test-package-utils@1.0.7`
+  - sweet update  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
+# (Tue Jan 28 2020)
+
 
 
 ---
