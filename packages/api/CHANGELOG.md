@@ -1,3 +1,21 @@
+# v0.1.6 (Mon Jan 27 2020)
+
+#### 🐛  Bug Fix
+
+- update 1  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- Update CHANGELOG.md [skip ci]  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- another update  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- Bump independent versions [skip ci]
+
+ - @autorelease/test-package-api@0.1.5
+ - @autorelease/test-package-utils@1.0.4  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v0.1.5 (Mon Jan 27 2020)
 
 #### 🐛  Bug Fix
