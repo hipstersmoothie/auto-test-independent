@@ -1,3 +1,17 @@
+# v1.0.9 (Tue Jan 28 2020)
+
+#### 🐛  Bug Fix
+
+- Bump version [skip ci]  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- Update CHANGELOG.md [skip ci]  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- sweet update  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v1.0.8 (Tue Jan 28 2020)
 
 #### 🐛  Bug Fix
