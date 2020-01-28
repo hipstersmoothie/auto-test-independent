@@ -2,6 +2,19 @@
 
 #### 🐛  Bug Fix
 
+- Update CHANGELOG.md [skip ci]  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- sweet update  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
+# v1.0.7 (Tue Jan 28 2020)
+
+#### 🐛  Bug Fix
+
 - sweet update  ([@hipstersmoothie](https://github.com/hipstersmoothie))
 
 #### Authors: 1
